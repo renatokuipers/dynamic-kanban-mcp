@@ -1,6 +1,11 @@
 # Dynamic Kanban MCP Server v3.0
 
 A production-ready Model Context Protocol (MCP) server that provides real-time kanban project management with bidirectional synchronization between Claude AI and an interactive HTML interface. Features dual-mode operation with autonomous and manual control.
+![Screenshot from 2025-06-23 15-16-00](https://github.com/user-attachments/assets/02e030bc-7b31-4242-8429-69ed5785d6ff)
+![Screenshot from 2025-06-23 15-15-02](https://github.com/user-attachments/assets/0254cf60-b309-490c-b70a-be70229c2a61)
+![Screenshot from 2025-06-23 15-15-25](https://github.com/user-attachments/assets/6a38b248-d2dc-4953-beef-e0ffc45366cc)
+![Screenshot from 2025-06-23 15-14-50](https://github.com/user-attachments/assets/ac6f6624-e1c3-46eb-b8d1-5c7d123c8af7)
+![Screenshot from 2025-06-23 15-15-51](https://github.com/user-attachments/assets/b0f59a31-1fa0-456e-b37c-22ba28e37009)
 
 ## Features
 
