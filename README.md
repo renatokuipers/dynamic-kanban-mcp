@@ -2,14 +2,8 @@
 
 A production-ready Model Context Protocol (MCP) server that provides real-time kanban project management with bidirectional synchronization between Claude AI and an interactive HTML interface. Features dual-mode operation with autonomous and manual control.
 
-![Screenshot from 2025-06-23 15-16-00](https://github.com/user-attachments/assets/8146b3f6-e162-4f3a-b261-2db58b4ddbf3)
-![Screenshot from 2025-06-23 15-15-51](https://github.com/user-attachments/assets/ea719ad3-dd48-472c-be2c-9022df9b6f9e)
-![Screenshot from 2025-06-23 15-15-25](https://github.com/user-attachments/assets/8473d87a-19c4-4e83-a998-d410da3d0e21)
-![Screenshot from 2025-06-23 15-15-02](https://github.com/user-attachments/assets/833a1243-a076-42ab-9779-ed9a58de8caa)
-![Screenshot from 2025-06-23 15-14-50](https://github.com/user-attachments/assets/e3e9204b-d895-433e-9510-8e64ac2ebeec)
-
 ## Features
-  
+
 ### Core Functionality
 - **Real-time Collaboration**: Bidirectional sync between Claude AI and HTML UI via WebSocket
 - **Universal Project Support**: Works with web apps, mobile apps, APIs, desktop software, and more

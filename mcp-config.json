@@ -1,0 +1,51 @@
+{
+  "mcpServers": {
+    "dynamic-kanban": {
+      "command": "python3",
+      "args": ["./mcp-kanban-server.py"],
+      "env": {},
+      "description": "Dynamic Kanban MCP Server v3.0 - Real-time project management with WebSocket sync",
+      "version": "3.0.0",
+      "capabilities": {
+        "tools": [
+          "create_project",
+          "add_feature",
+          "configure_board",
+          "import_features",
+          "kanban_status",
+          "kanban_get_ready_tasks", 
+          "kanban_get_next_task",
+          "kanban_move_card",
+          "kanban_update_progress",
+          "kanban_start_session",
+          "kanban_end_session",
+          "analyze_task_requirements",
+          "validate_dependencies",
+          "validate_project_dependencies",
+          "get_task_details",
+          "clear_kanban",
+          "delete_project",
+          "remove_feature",
+          "remove_features",
+          "clear_column",
+          "reset_board"
+        ],
+        "features": [
+          "Dynamic project creation for any project type",
+          "Real-time UI generation with WebSocket sync",
+          "Bidirectional sync between Claude and HTML UI",
+          "Feature management with dependencies and circular dependency detection",
+          "Pydantic data validation with comprehensive error handling",
+          "Board configuration and customization",
+          "JSON import/export for data portability",
+          "Development session tracking",
+          "Task analysis and implementation planning",
+          "Drag & drop interface with live updates",
+          "Cross-project compatibility",
+          "Centralized configuration management",
+          "Modular JavaScript architecture"
+        ]
+      }
+    }
+  }
+}

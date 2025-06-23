@@ -1,0 +1,28 @@
+# Dynamic Kanban MCP Server Requirements v3.0
+# Core dependencies for proper MCP and WebSocket functionality
+
+# WebSocket support for real-time synchronization
+websockets
+
+# Data validation and serialization
+pydantic
+
+# Note: Standard library modules used:
+# - json (built-in)
+# - os (built-in) 
+# - sys (built-in)
+# - uuid (built-in)
+# - asyncio (built-in)
+# - threading (built-in)
+# - datetime (built-in)
+# - pathlib (built-in)
+# - logging (built-in)
+# - typing (built-in)
+# - shutil (built-in)
+# - socket (built-in)
+
+# Installation command:
+# pip install -r requirements.txt
+
+# For development/testing:
+# pip install websockets pytest
